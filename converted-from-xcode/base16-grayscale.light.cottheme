@@ -1,86 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>attributesColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg18zwj6D4zHCPoO6MsI+AYY=
-	</data>
-	<key>backgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg8bmdT+D5OR1P4P25XU/AYY=
-	</data>
-	<key>charactersColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg9yh9z6D9p/3PoMJofc+AYY=
-	</data>
-	<key>commandsColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg2XZ5j6DodfmPoOh2OY+AYY=
-	</data>
-	<key>commentsColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgyxqGz+D+2gbP4OoaRs/AYY=
-	</data>
-	<key>insertionPointColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg47/WD6D5P1YPoPV/lg+AYY=
-	</data>
-	<key>invisiblesColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg8bmdT+D5OR1P4P25XU/AYY=
-	</data>
-	<key>keywordsColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg9itqj6DiqyqPoNHrao+AYY=
-	</data>
-	<key>lineHighlightColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg2CATz+DyX5PP4Owf08/AYY=
-	</data>
-	<key>numbersColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg9yh9z6D9p/3PoMJofc+AYY=
-	</data>
-	<key>selectionColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgzYbXT+DhBldP4N6Gl0/AYY=
-	</data>
-	<key>stringsColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg9yh9z6D9p/3PoMJofc+AYY=
-	</data>
-	<key>textColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgwUZXD2DVRdcPYNKGFw9AYY=
-	</data>
-	<key>typesColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgxBL0j6DdEnSPoNeStI+AYY=
-	</data>
-	<key>valuesColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgw44Dz+D9TYPP4OUNw8/AYY=
-	</data>
-	<key>variablesColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgxBL0j6DdEnSPoNeStI+AYY=
-	</data>
-</dict>
-</plist>
+{
+  "insertionPointColor" : "#464646",
+  "textColor" : "#101010",
+  "typesColor" : "#7c7c7c",
+  "charactersColor" : "#8e8e8e",
+  "stringsColor" : "#8e8e8e",
+  "keywordsColor" : "#686868",
+  "invisiblesColor" : "#f7f7f7",
+  "attributesColor" : "#747474",
+  "commandsColor" : "#868686",
+  "valuesColor" : "#a0a0a0",
+  "variablesColor" : "#7c7c7c",
+  "selectionColor" : "#e3e3e3",
+  "numbersColor" : "#8e8e8e",
+  "lineHighlightColor" : "#d1d1d1",
+  "backgroundColor" : "#f7f7f7",
+  "commentsColor" : "#ababab",
+  "usesSystemSelectionColor" : false
+}
