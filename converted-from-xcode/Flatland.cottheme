@@ -1,19 +1,51 @@
 {
-  "insertionPointColor" : "#bbbcbd",
-  "textColor" : "#f8f8f8",
-  "typesColor" : "#5ea7b3",
-  "charactersColor" : "#c4e2f2",
-  "stringsColor" : "#c4e2f2",
-  "keywordsColor" : "#ff6530",
-  "invisiblesColor" : "#7a8288",
-  "attributesColor" : "#fa9a4b",
-  "commandsColor" : "#69b9c6",
-  "valuesColor" : "#5dafbb",
-  "variablesColor" : "#6abbc8",
-  "selectionColor" : "#3b3f42",
-  "numbersColor" : "#95c430",
-  "lineHighlightColor" : "#474d52",
-  "backgroundColor" : "#26292c",
-  "commentsColor" : "#798188",
-  "usesSystemSelectionColor" : false
+  "invisibles" : {
+    "color" : "#7a8288"
+  },
+  "lineHighlight" : {
+    "color" : "#26292c"
+  },
+  "selection" : {
+    "usesSystemSetting" : false,
+    "color" : "#3b3f42"
+  },
+  "values" : {
+    "color" : "#5dafbb"
+  },
+  "variables" : {
+    "color" : "#6abbc8"
+  },
+  "types" : {
+    "color" : "#5ea7b3"
+  },
+  "background" : {
+    "color" : "#26292c"
+  },
+  "keywords" : {
+    "color" : "#ff6530"
+  },
+  "characters" : {
+    "color" : "#c4e2f2"
+  },
+  "numbers" : {
+    "color" : "#95c430"
+  },
+  "attributes" : {
+    "color" : "#fa9a4b"
+  },
+  "commands" : {
+    "color" : "#69b9c6"
+  },
+  "insertionPoint" : {
+    "color" : "#bbbcbd"
+  },
+  "text" : {
+    "color" : "#f8f8f8"
+  },
+  "comments" : {
+    "color" : "#798188"
+  },
+  "strings" : {
+    "color" : "#c4e2f2"
+  }
 }

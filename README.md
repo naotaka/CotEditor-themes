@@ -12,7 +12,7 @@ You can browse all screenshots on [my site](http://www.naotaka.com/coteditorthem
 
 ## Download
 
-[CotEditor-themes.zip](https://github.com/naotaka/CotEditor-themes/releases/download/v20140904/CotEditor-themes.zip)
+[CotEditor-themes.zip](https://github.com/naotaka/CotEditor-themes/releases/download/v20141016/CotEditor-themes.zip)
 
 ## Installation
 
